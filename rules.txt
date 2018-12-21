@@ -1,16 +1,112 @@
-- General Rules
-garrys
+Chat Commands: 
+
+    /ooc [message]  Out of character chat that everyone on the server can see
+    /name [first name] [last name]  Changes role play name
+    /dropmoney [amount]  Drops money from your balance
+    /pm [rpname] [message]  Privately messages a person on the server
+    /y [message]  Yells the message within a bigger area for more people to hear
+    @ [message]  Sends a message directly for only the Staff/Admins to see
+
+ General Rules: 
+
+    No Microphone Spam
+    No Prop Block or Prop Spam
+    Respect players in OOC (out of character)
+    No bullying, harassment or racism is tolerated
+    Do not advertise other servers
+    Do not bend or use loopholes in the rules
+    Hits must have a valid reason
+    If you buy two doors to a building such as the apartments you own the building.
+    Do not RDA
+    Staff have final say on rules
+    Invincible cover such as no collided boxes are not allowed
+    Use common sense
+    No racist, sexist, homophobic slurs or abuse in voice, roleplay chat or OOC
+
+Building Rules:
+
+    Only 3 fading doors are allowed
+    Do not fading door abuse
+    The hold length of the keypad (fading door) must be at least 4 seconds
+    Building is allowed on the streets as long as it’s not blocking the way of other players path and if a staff member doesn’t approve you need to remove it and put it closer to the wall or further away from street/road
+    Mega basing is allowed but only for gangs such as Crips, Bloods and Mafia
+    No racist, sexist, homophobic buildings or textscreens
+    No building on roofs that are used by admins.
+    Trap basing is allowed
+    The base needs to have enough room for two people to stand in.
+    Sky basing is not allowed
+    “All KOS Rules Apply” is allowed as long as the font size is 50 or more
+    You’re not allowed to edit or place props down during a raid
+    Building in PD is allowed as long as there isn’t too crowded.
+    The keypad has to be close enough to the fading door
+
+Role Play Rules: 
+
+    Don’t RDM (random death match)
+    Do not NLR (new life rule)
+    No metagaming
+    Don’t self supply (spawning guns for yourself as gun dealer is an exception, you cannot then change to thief and use them)
+    Do not Job Abuse (swapping from hobo to thief in front of someone then mugging them)
+    No prop spamming / entity spamming
+
+ Raiding Rules: 
+
+    5 Minutes between raids, 10 minutes between raids on same base
+    You cannot raid bases with building signs
+    If you raid a base you must leave after you complete it
+    You can raid a base if you have a hit on the person inside it
+    You cannot spawn props inside the base during a raid
+    Must advert raid, mug, kidnap, rape, hijack, counter, carjack, terror 
+
+ Terrorist Rules:
+
+    You cannot terror in spawn
+    One terrorist attack is allowed every 15 minutes
+    A terrorist attack can only last 5 minutes
+    Once you die the attack must end
 
 
-- Building Rules
+Mayor: 
 
-* While building, put up a sign that says "Building" to let others know you are not roleplaying.
-* Do not interfere with people that have a "Building" sign.
-* A player must be able to enter and exit your building using a keypad cracker or a lockpick.
-* Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
-* Keypads must be connected to a working fading door.
-* Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
-* Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
-* No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
-* Do not store entities on inaccessible rooftops or inaccessible areas in general.
-* Sky bases are not allowed.
+    Cannot allow anything against server rules
+    Cannot hold a Two-handed weapon as self-defense, he can have one-hand weapon only, he can also hire bodyguards
+    Can order any police to arrest anyone that has broken a law.
+    No stupid laws. Example "Must give all money to the mayor" or "everyone is Kos or aos" Use Common Sense.
+    No racist rules 
+
+
+
+Police: 
+
+    Must follow the mayor's rules (If there is no mayor you must follow the standard Australian law)
+    Must give the reason for an arrest. No Random arrest/ Baton rush
+    Must have a warrant for raiding a suspect's base. A valid reason. (Links to murder, Mugging)
+    Must Tell the person (if he has a gun) to put it away or he will be shot (10 seconds warn) (only applies if he is faced away) (if he turns around with the gun out you have the right to shoot) 
+
+    Fearrp doesn't apply if the person is at least 10 or more meters away (due to police having their gun always on their waist)
+
+Guards: 
+
+    You are not law enforcement (you cannot help with the police)     
+
+SWAT: 
+
+    You cannot own a base. the PD is your base.
+    Must have a warrant to enter suspect's base. valid reason needed. (Links to murder, Mugging, Act of terror) 
+
+
+Terminology: 
+
+    RDM: Random Death Match
+    RDA: Random Arrest
+    NLR: New Life Rule
+    NITRP: No Intention to RP
+    LTAP: Leave to avoid punishment
+    FDA: Fading door abuse
+    NLA: Nonlethal Abuse
+    A (RDM/RDA): Attempted (RDM/RDA)
+    R (RDM/RDA): Revenge (RDM/RDA)
+    Propblock: Blocking all areas without a way to get in using a lockpick / keypad cracker
+    Propclimb: Using props to get on places you cannot normally get to
+    KoS = Kill on Sight
+    AoS = Arrest on Sight
